@@ -1,4 +1,4 @@
-version: '3'  # version of compose format 
+version: '2'  # version of compose format 
 
 services:
   observatory-service:
